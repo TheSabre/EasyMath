@@ -1,0 +1,6 @@
+1) Created the git repository and added Shaunak and the instructor as the collaborators.
+2) Created the project on android studio and created the tag and pushed it into the git repository.
+3) Contributed in creating the UML diagrams.
+4) Contributed in creating requirement functionalities.
+5) Wrote the story line.
+6) Wrote the purpose and audience section.
