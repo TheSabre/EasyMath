@@ -1,1 +1,7 @@
-Hello This is Shaunak 
+Contriution 
+1. Helped make use case diagram 
+2. Help make sequence diagram
+3. Made Requirement document
+4. contributed with git reposatery 
+5. Updating documents.
+
