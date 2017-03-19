@@ -1,7 +1,9 @@
 Contriution 
-1. Helped make use case diagram 
-2. Help make sequence diagram
-3. Made Requirement document
-4. contributed with git reposatery 
-5. Updating documents.
+
+1. Contributed with Requirement document 
+2. Made Problem section.
+3. Made Domain section.
+4. Contributed with UML diagrams.	
+5. contributed with git repository. 
+6. Updating documents.
 
